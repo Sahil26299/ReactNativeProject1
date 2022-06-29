@@ -28,7 +28,7 @@ export default function Welcome({navigation}) {
 }
 const styles = StyleSheet.create({
     Container:{
-        backgroundColor:'#9C6DFF',
+        backgroundColor:'#3D67FF',
         flex:1
     },
     section1:{
